@@ -1,6 +1,6 @@
 # KBC: The Quiz Game
 
-![KBC Logo](kbc_logo.png)
+![KBC Logo](Screenshot.png)
 
 ## Overview
 
