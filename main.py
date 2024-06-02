@@ -5,10 +5,10 @@ import time
 print(logo)
 
 pygame.mixer.init()
-pygame.mixer.music.load('assets/kbc.mp3') 
+pygame.mixer.music.load('assets\kbc.mp3') 
 pygame.mixer.music.play()
 
-correct_sound = pygame.mixer.Sound('assets/correctans.mp3')
+correct_sound = pygame.mixer.Sound('assets\correctans.mp3')
 
 questions = [
    [
