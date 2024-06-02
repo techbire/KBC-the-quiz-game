@@ -3,7 +3,7 @@
 
 [Watch the project demo on YouTube](https://www.youtube.com/watch?v=Ji4NlDG2mfY)
 
-![KBC Logo](Screenshot.png)
+![KBC Logo](assets/Screenshot.png)
 
 ## Overview
 
