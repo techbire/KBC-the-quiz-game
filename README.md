@@ -16,8 +16,13 @@ Welcome to the exciting world of KBC: The Quiz Game project, where Amitabh Bachc
 - **Amitabh Bachchan's Essence:** Experience the charm of Amitabh Bachchan Sir infused into every aspect of the project.
  
 - **Python Magic:** Explore the coding magic with Python, including the use of lists, conditionals, and functions.
+                    Randomly shuffles questions to ensure a unique experience each time.
+                    Implements checkpoints at specific questions where the player can secure a certain amount of prize money.
  
 - **Pygame Library Integration:** Take advantage of the Pygame library to enhance the gaming experience.
+
+
+
 
 
 ## Requirements
@@ -59,6 +64,6 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 
 ## Acknowledgments
 
-Special thanks to Amitabh Bachchan Sir for inspiring generations and to the Python community for creating powerful tools that make projects like these possible.
+This project is inspired by the TV show "Kaun Banega Crorepati" and is created for educational purposes.
 
 Feel the adrenaline, test your knowledge, and experience the thrill of KBC with our Python-powered quiz game!
